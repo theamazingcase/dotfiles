@@ -63,8 +63,8 @@ cask 'webtorrent'
 
 #Mac App Store
 mas 'Boxy', id: 1053031090
-mas 'GIPHY Capture. The GIF Maker', id: 668208984
+mas 'GIPHY Capture', id: 668208984
 mas 'iA Writer', id: 775737590
-mas 'Momentum Habit Tracker - Routines, Goals & Rituals', id: 1030442215
+mas 'Momentum', id: 1030442215
 mas 'Pocket', id: 568494494
 mas 'Tadam', id: 531349534

@@ -1,8 +1,8 @@
 
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
-#for npm global installs without sudo
-export PATH="$HOME/.npm-packages/bin:$PATH"
+#for yarn global installs
+export PATH="$PATH:`yarn global bin`"
 
 export PS1="the_amazing_case:\W $\n"
 
